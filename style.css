@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@200&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #0E2645;
+}
+
+/* navbar */
+.logo {
+    cursor: pointer;
+    color: #edf0f1;
+    font-family: 'Fredoka One', cursive;
+}
+li, a  {
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: #edf0f1;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+.nav_list {
+    list-style: none;
+}
+.nav_list li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav_list li a {
+    transition: all 0.3s ease 0s;
+}
+.nav_list li a:hover {
+    color: #0088a9
+}
+
+/* home, achievements and work */
+.start-h1 {
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: thistle;
+}
+#fl {
+    color: white;
+    padding: 3rem;
+    font-size: 1.7rem;
+    font-family: 'Gluten', cursive;
+}
+#sl {
+    color: white;
+    padding: 3rem;
+    font-size: 1.3rem;
+    margin-top: -4rem;
+    font-family: 'Gluten', cursive;
+}
+.list {
+    padding: 4.5rem;
+    margin-top: -5rem;
+    font-family: 'Gluten', cursive;
+}
+.listi {
+    color: blanchedalmond;
+}
+
+/* profiles */
+.git {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.code {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
