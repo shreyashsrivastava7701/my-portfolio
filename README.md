@@ -16,7 +16,10 @@ This is my portfolio which is created using HTML and CSS.
 4. My Profiles
 
 # Status: <a name="status"></a>
-'My Works' section to be completed
+To Regularly update.
+##### Optional:
+To add webs I made using Google Sites.
+To add My Education history later.
 
 # Contributions: <a name="contributions"></a>
 1. To enhance the Website.
