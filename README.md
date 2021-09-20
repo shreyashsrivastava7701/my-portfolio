@@ -12,7 +12,7 @@ This is my portfolio which is created using HTML and CSS.
 # Web contains: <a name="contains"></a>
 1. About me
 2. My Achievements
-3. My Works
+3. My Projects
 4. My Profiles
 
 # Status: <a name="status"></a>
