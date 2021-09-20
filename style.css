@@ -72,6 +72,21 @@ header {
     color: blanchedalmond;
 }
 
+/* pdfs */
+.fr {
+    display: block;
+    margin-bottom: 1.75em;
+    margin-left: auto ;
+    margin-right: auto ; 
+}
+.para {
+    color: wheat;
+    font-family: 'Gluten', cursive;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
 /* profiles */
 .git {
     width: 10%;
