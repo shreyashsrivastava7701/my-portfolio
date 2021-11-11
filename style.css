@@ -92,3 +92,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
+
+df-messenger {
+    --df-messenger-button-titlebar-color: #0E2645;
+}
