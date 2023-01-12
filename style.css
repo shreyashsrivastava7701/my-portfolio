@@ -113,6 +113,9 @@ section#profiles {
     text-align: center;
     width: 100%;
   }
+  #first-l {
+    margin-left: 50px;
+  }
 }
 @media (min-width: 1000px) {
     #first-l {
