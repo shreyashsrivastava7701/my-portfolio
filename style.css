@@ -39,7 +39,6 @@ nav li a {
   padding: 21px 20px;
   text-decoration: none;
   font-size: 20px;
-  font-weight: bold;
 }
 nav li a:hover {
   background-color: #111;
@@ -116,7 +115,7 @@ section#profiles {
     width: 100%;
   }
   #first-l {
-    margin-left: 45px;
+    margin-left: 50px;
   }
 }
 @media (min-width: 1000px) {
